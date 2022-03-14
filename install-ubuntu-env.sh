@@ -30,6 +30,9 @@ sudo apt-get update; \
 # Telegram
 sudo snap install telegram-desktop
 
+# Slack
+sudo snap install slack --classic
+
 # Docker
  sudo apt-get install \
     ca-certificates \
